@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>🦊 Kit's Podcast Picks</title>
+    <description>Curated podcast episodes for people who love crafted storytelling, investigative journalism, and shows that respect your time. No algorithms. No ads. Just Kit's taste.</description>
+    <link>https://github.com/kitattic/podcast-picks</link>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Jan 2026 02:24:54 GMT</lastBuildDate>
+    <ns0:author>Kit (kitattic.com)</ns0:author>
+    <ns0:summary>Curated podcast episodes for people who love crafted storytelling, investigative journalism, and shows that respect your time. No algorithms. No ads. Just Kit's taste.</ns0:summary>
+    <ns0:explicit>no</ns0:explicit>
+    <ns0:image href="https://kitattic.github.io/podcast-picks/artwork.jpg"/>
+    <ns0:category text="Society &amp;amp; Culture"/>
+    <ns1:link href="https://kitattic.github.io/podcast-picks/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Lex Fridman Podcast] #488 – Infinity, Paradoxes that Broke Mathematics, Gödel Incompleteness &amp; the Multiverse – Joel David Hamkins</title>
+      <description>&lt;p&gt;Joel David Hamkins is a mathematician and philosopher specializing in set theory, the foundations of mathematics, and the nature of infinity, and he&amp;#8217;s the #1 highest-rated user on MathOverflow. He is also the author of several books, including Proof and the Art of Mathematics and Lectures on the Philosophy of Mathematics. And he has a great blog called Infinitely More.&lt;br /&gt;
+Thank you for listening ❤ Check out our sponsors: &lt;a href=&quot;https://lexfridman.com/sponsors/ep488-sc&quot;&gt;https://lexfridman.com/sponsors/ep488-sc&lt;/a&gt;&lt;br /&gt;
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Transcript:&lt;/b&gt;&lt;br /&gt;
+&lt;a href=&quot;https://lexfridman.com/joel-david-hamkins-transcript&quot;&gt;https://lexfridman.com/joel-david-hamkins-transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;CONTACT LEX:&lt;/b&gt;&lt;br /&gt;
+&lt;b&gt;Feedback&lt;/b&gt; &amp;#8211; give feedback to Lex: &lt;a href=&quot;https://lexfridman.com/survey&quot;&gt;https://lexfridman.com/survey&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;AMA&lt;/b&gt; &amp;#8211; submit questions, videos or call-in: &lt;a href=&quot;https://lexfridman.com/ama&quot;&gt;https://lexfridman.com/ama&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Hiring&lt;/b&gt; &amp;#8211; join our team: &lt;a href=&quot;https://lexfridman.com/hiring&quot;&gt;https://lexfridman.com/hiring&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Other&lt;/b&gt; &amp;#8211; other ways to get in touch: &lt;a href=&quot;https://lexfridman.com/contact&quot;&gt;https://lexfridman.com/contact&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;EPISODE LINKS:&lt;/b&gt;&lt;br /&gt;
+Joel&amp;#8217;s X: &lt;a href=&quot;https://x.com/JDHamkins&quot;&gt;https://x.com/JDHamkins&lt;/a&gt;&lt;br /&gt;
+Joel&amp;#8217;s Website: &lt;a href=&quot;https://jdh.hamkins.org&quot;&gt;https://jdh.hamkins.org&lt;/a&gt;&lt;br /&gt;
+Joel&amp;#8217;s Substack: &lt;a href=&quot;https://www.infinitelymore.xyz&quot;&gt;https://www.infinitelymore.xyz&lt;/a&gt;&lt;br /&gt;
+Joel&amp;#8217;s MathOverflow: &lt;a href=&quot;https://mathoverflow.net/users/1946/joel-david-hamkins&quot;&gt;https://mathoverflow.net/users/1946/joel-david-hamkins&lt;/a&gt;&lt;br /&gt;
+Joel&amp;#8217;s Papers: &lt;a href=&quot;https://jdh.hamkins.org/publications&quot;&gt;https://jdh.hamkins.org/publications&lt;/a&gt;&lt;br /&gt;
+Joel&amp;#8217;s Books:&lt;br /&gt;
+Lectures on the Philosophy of Mathematics: &lt;a href=&quot;https://amzn.to/3MThaAt&quot;&gt;https://amzn.to/3MThaAt&lt;/a&gt;&lt;br /&gt;
+Proof and the Art of Mathematics: &lt;a href=&quot;https://amzn.to/3YACc9A&quot;&gt;https://amzn.to/3YACc9A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;SPONSORS:&lt;/b&gt;&lt;br /&gt;
+To support this podcast, check out our sponsors &amp;#38; get discounts:&lt;br /&gt;
+&lt;b&gt;Perplexity:&lt;/b&gt; AI-powered answer engine.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/perplexity-ep488-sc&quot;&gt;https://www.perplexity.ai/&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Fin:&lt;/b&gt; AI agent for customer service.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/fin-ep488-sc&quot;&gt;https://fin.ai/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Miro:&lt;/b&gt; Online collaborative whiteboard platform.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/miro-ep488-sc&quot;&gt;https://miro.com/&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;CodeRabbit:&lt;/b&gt; AI-powered code reviews.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/coderabbit-ep488-sc&quot;&gt;https://coderabbit.ai/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Chevron:&lt;/b&gt; Reliable energy for data centers.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/chevron-ep488-sc&quot;&gt;https://chevron.com/power&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Shopify:&lt;/b&gt; Sell stuff online.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/shopify-ep488-sc&quot;&gt;https://shopify.com/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;LMNT:&lt;/b&gt; Zero-sugar electrolyte drink mix.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/lmnt-ep488-sc&quot;&gt;https://drinkLMNT.com/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;MasterClass:&lt;/b&gt; Online classes from world-class experts.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/masterclass-ep488-sc&quot;&gt;https://masterclass.com/lexpod&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;OUTLINE:&lt;/b&gt;&lt;br /&gt;
+(00:00) &amp;#8211; Introduction&lt;br /&gt;
+(01:58) &amp;#8211; Sponsors, Comments, and Reflections&lt;br /&gt;
+(15:40) &amp;#8211; Infinity &amp;#38; paradoxes&lt;br /&gt;
+(1:02:50) &amp;#8211; Russell&amp;#8217;s paradox&lt;br /&gt;
+(1:15:57) &amp;#8211; Gödel&amp;#8217;s incompleteness theorems&lt;br /&gt;
+(1:33:28) &amp;#8211; Truth vs proof&lt;br /&gt;
+(1:44:52) &amp;#8211; The Halting Problem&lt;br /&gt;
+(2:00:45) &amp;#8211; Does infinity exist?&lt;br /&gt;
+(2:18:19) &amp;#8211; MathOverflow&lt;br /&gt;
+(2:22:12) &amp;#8211; The Continuum Hypothesis&lt;br /&gt;
+(2:31:58) &amp;#8211; Hardest problems in mathematics&lt;br /&gt;
+(2:41:25) &amp;#8211; Mathematical multiverse&lt;br /&gt;
+(3:00:18) &amp;#8211; Surreal numbers&lt;br /&gt;
+(3:10:55) &amp;#8211; Conway&amp;#8217;s Game of Life&lt;br /&gt;
+(3:13:11) &amp;#8211; Computability theory&lt;br /&gt;
+(3:23:04) &amp;#8211; P vs NP&lt;br /&gt;
+(3:26:21) &amp;#8211; Greatest mathematicians in history&lt;br /&gt;
+(3:40:05) &amp;#8211; Infinite chess&lt;br /&gt;
+(3:58:24) &amp;#8211; Most beautiful idea in mathematics&lt;/p&gt;</description>
+      <enclosure url="https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_joel_david_hamkins.mp3" type="audio/mpeg" length="5242880"/>
+      <guid>https://lexfridman.com/?p=6378</guid>
+      <pubDate>Wed, 31 Dec 2025 21:24:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[99% Invisible] What’s in a Name</title>
+      <description>&lt;p&gt;Throughout Africa and beyond, Zimbabweans are known for choosing some of the most bold, head-turning English-language names. Zimbabwean producer Kim Chakanetsa tells the story of how her country's journey from colonial rule to independence shaped the nation's unique naming traditions.&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and a whole week early.&amp;nbsp;&lt;br&gt;&lt;br&gt;Start a free trial now on Apple Podcasts or by visiting &lt;a href=&quot;http://siriusxm.com/podcastsplus.&quot; target=&quot;_blank&quot;&gt;siriusxm.com/podcastsplus&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;/p&gt;&lt;br/&gt; &lt;p&gt;Hosted by Simplecast, an AdsWizz company. See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for advertising.&lt;/p&gt;</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/a17634b4-2a04-4c08-817e-92a02d571d83/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=a17634b4-2a04-4c08-817e-92a02d571d83&amp;feed=BqbsxVfO" type="audio/mpeg" length="25783934"/>
+      <guid>897e90b1-defe-4337-8c0f-e560684db1b9</guid>
+      <pubDate>Tue, 27 Jan 2026 18:15:00 +0000</pubDate>
+      <ns0:duration>00:26:30</ns0:duration>
+    </item>
+    <item>
+      <title>[Darknet Diaries] 169: MoD</title>
+      <description>
+        &lt;p&gt;Legion of Doom, step aside. There’s a new elite hacker group in town, and they’re calling themselves Masters of Deception (MoD). With tactics that are grittier and more sophisticated than those of the LoD, MoD has targeted high-profile entities and left an indelible mark on the internet.&lt;/p&gt;&lt;p&gt;This is part 2 of the LoD/MoD series. Part 1 is &lt;a href=&quot;https://darknetdiaries.com/episode/168&quot;&gt;&lt;strong&gt;episode 168: “LoD”&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&lt;h3&gt;Sponsors&lt;/h3&gt;&lt;p&gt;Support for this show comes from &lt;a href=&quot;https://www.threatlocker.com/&quot;&gt;&lt;strong&gt;ThreatLocker®&lt;/strong&gt;&lt;/a&gt;. ThreatLocker® is a Zero Trust Endpoint Protection Platform that strengthens your infrastructure from the ground up. With ThreatLocker® Allowlisting and Ringfencing™, you gain a more secure approach to blocking exploits of known and unknown vulnerabilities. ThreatLocker® provides Zero Trust control at the kernel level that enables you to allow everything you need and block everything else, including ransomware! Learn more at &lt;a href=&quot;https://www.threatlocker.com/&quot;&gt;&lt;strong&gt;www.threatlocker.com&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This show is sponsored by &lt;a href=&quot;https://redcanary.com/&quot;&gt;&lt;strong&gt;Red Canary&lt;/strong&gt;&lt;/a&gt;. Red Canary is a leading provider of Managed Detection and Response (MDR), helping nearly 1,000 organizations detect and stop threats before they cause harm. With a focus on accuracy across identities, endpoints, and cloud, we deliver trusted security operations and a world-class customer experience. Learn more at &lt;a href=&quot;https://redcanary.com/&quot;&gt;&lt;strong&gt;redcanary.com&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This show is sponsored by &lt;a href=&quot;http://mazehq.com/darknet&quot;&gt;&lt;strong&gt;Maze&lt;/strong&gt;&lt;/a&gt;. Maze uses AI agents to triage and remediate cloud vulnerabilities by figuring out what’s actually exploitable, not just what’s theoretically risky. They remove the noise, prioritize vulns that matter, and manage remediation, so your team stops wasting time on meaningless vulns. Visit &lt;a href=&quot;http://mazehq.com/darknet&quot;&gt;&lt;strong&gt;MazeHQ.com/darknet&lt;/strong&gt;&lt;/a&gt; for more information.&lt;/p&gt;&lt;h3&gt;Sources&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://amzn.to/4q3O0gJ&quot;&gt;&lt;strong&gt;Book: Masters of Deception&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://amzn.to/3N4bovY&quot;&gt;&lt;strong&gt;Book: The Hacker Crackdown&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://content.time.com/time/subscriber/article/0,33009,982254-1,00.html&quot;&gt;&lt;strong&gt;https://content.time.com/time/subscriber/article/0,33009,982254-1,00.html&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/1995/01/14/nyregion/reprogramming-convicted-hacker-his-line-friends-phiber-optik-virtual-hero.html&quot;&gt;&lt;strong&gt;https://www.nytimes.com/1995/01/14/nyregion/reprogramming-convicted-hacker-his-line-friends-phiber-optik-virtual-hero.html&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gutenberg.org/cache/epub/101/pg101-images.html&quot;&gt;&lt;strong&gt;https://www.gutenberg.org/cache/epub/101/pg101-images.html&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://phrack.org/issues/31/5&quot;&gt;&lt;strong&gt;https://phrack.org/issues/31/5&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.thisamericanlife.org/2/small-scale-sin&quot;&gt;&lt;strong&gt;https://www.thisamericanlife.org/2/small-scale-sin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+      </description>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/9d4c34be-a7df-41c7-a0da-5269b660e688/darknet-diaries-ep169-mod.mp3" type="audio/mpeg" length="71615380"/>
+      <guid>prx_7057_9d4c34be-a7df-41c7-a0da-5269b660e688</guid>
+      <pubDate>Tue, 20 Jan 2026 08:00:00 -0000</pubDate>
+      <ns0:duration>01:06:36</ns0:duration>
+    </item>
+    <item>
+      <title>[Lex Fridman Podcast] #489 – Paul Rosolie: Uncontacted Tribes in the Amazon Jungle</title>
+      <description>&lt;p&gt;Paul Rosolie is a naturalist, explorer, author of a new book titled Junglekeeper, and is someone who has dedicated his life to protecting the Amazon rainforest.&lt;br /&gt;
+Thank you for listening ❤ Check out our sponsors: &lt;a href=&quot;https://lexfridman.com/sponsors/ep489-sc&quot;&gt;https://lexfridman.com/sponsors/ep489-sc&lt;/a&gt;&lt;br /&gt;
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Transcript:&lt;/b&gt;&lt;br /&gt;
+&lt;a href=&quot;https://lexfridman.com/paul-rosolie-3-transcript&quot;&gt;https://lexfridman.com/paul-rosolie-3-transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;CONTACT LEX:&lt;/b&gt;&lt;br /&gt;
+&lt;b&gt;Feedback&lt;/b&gt; &amp;#8211; give feedback to Lex: &lt;a href=&quot;https://lexfridman.com/survey&quot;&gt;https://lexfridman.com/survey&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;AMA&lt;/b&gt; &amp;#8211; submit questions, videos or call-in: &lt;a href=&quot;https://lexfridman.com/ama&quot;&gt;https://lexfridman.com/ama&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Hiring&lt;/b&gt; &amp;#8211; join our team: &lt;a href=&quot;https://lexfridman.com/hiring&quot;&gt;https://lexfridman.com/hiring&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Other&lt;/b&gt; &amp;#8211; other ways to get in touch: &lt;a href=&quot;https://lexfridman.com/contact&quot;&gt;https://lexfridman.com/contact&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;EPISODE LINKS:&lt;/b&gt;&lt;br /&gt;
+Junglekeeper (new book): &lt;a href=&quot;https://amzn.to/4q7vpAp&quot;&gt;https://amzn.to/4q7vpAp&lt;/a&gt;&lt;br /&gt;
+Paul&amp;#8217;s Instagram: &lt;a href=&quot;https://instagram.com/paulrosolie&quot;&gt;https://instagram.com/paulrosolie&lt;/a&gt;&lt;br /&gt;
+Junglekeepers Website: &lt;a href=&quot;https://junglekeepers.org&quot;&gt;https://junglekeepers.org&lt;/a&gt;&lt;br /&gt;
+Paul&amp;#8217;s Website: &lt;a href=&quot;https://paulrosolie.com&quot;&gt;https://paulrosolie.com&lt;/a&gt;&lt;br /&gt;
+Mother of God (book): &lt;a href=&quot;https://amzn.to/3ww2ob1&quot;&gt;https://amzn.to/3ww2ob1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;SPONSORS:&lt;/b&gt;&lt;br /&gt;
+To support this podcast, check out our sponsors &amp;#38; get discounts:&lt;br /&gt;
+&lt;b&gt;Perplexity:&lt;/b&gt; AI-powered answer engine.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/perplexity-ep489-sc&quot;&gt;https://perplexity.ai/&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;BetterHelp:&lt;/b&gt; Online therapy and counseling.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/betterhelp-ep489-sc&quot;&gt;https://betterhelp.com/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;LMNT:&lt;/b&gt; Zero-sugar electrolyte drink mix.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/lmnt-ep489-sc&quot;&gt;https://drinkLMNT.com/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Shopify:&lt;/b&gt; Sell stuff online.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/shopify-ep489-sc&quot;&gt;https://shopify.com/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Fin:&lt;/b&gt; AI agent for customer service.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/fin-ep489-sc&quot;&gt;https://fin.ai/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Miro:&lt;/b&gt; Online collaborative whiteboard platform.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/miro-ep489-sc&quot;&gt;https://miro.com/&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;MasterClass:&lt;/b&gt; Online classes from world-class experts.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/masterclass-ep489-sc&quot;&gt;https://masterclass.com/lexpod&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;OUTLINE:&lt;/b&gt;&lt;br /&gt;
+(00:00) &amp;#8211; Introduction&lt;br /&gt;
+(02:34) &amp;#8211; Sponsors, Comments, and Reflections&lt;br /&gt;
+(12:00) &amp;#8211; Uncontacted tribes in the Amazon Jungle&lt;br /&gt;
+(19:46) &amp;#8211; Intense new encounter&lt;br /&gt;
+(42:52) &amp;#8211; Never-before-seen footage of tribe warriors&lt;br /&gt;
+(56:08) &amp;#8211; The mysteries of the jungle&lt;br /&gt;
+(1:10:43) &amp;#8211; Tribe&amp;#8217;s diet: Monkeys, turtles, and turtle eggs&lt;br /&gt;
+(1:20:19) &amp;#8211; Jane Goodall&lt;br /&gt;
+(1:26:31) &amp;#8211; Advice for young people&lt;br /&gt;
+(1:35:45) &amp;#8211; Cartel, Narco-traffickers &amp;#38; assassination attempts&lt;br /&gt;
+(1:57:45) &amp;#8211; Climbing the giant tree&lt;br /&gt;
+(2:08:43) &amp;#8211; Giant anaconda&lt;br /&gt;
+(2:26:01) &amp;#8211; Rescuing a spider monkey&lt;br /&gt;
+(2:32:05) &amp;#8211; Dangerous animal encounters&lt;br /&gt;
+(2:42:13) &amp;#8211; Writing, journaling, and great writer inspirations&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;PODCAST LINKS:&lt;/b&gt;&lt;br /&gt;
+&amp;#8211; Podcast Website: &lt;a href=&quot;https://lexfridman.com/podcast&quot;&gt;https://lexfridman.com/podcast&lt;/a&gt;&lt;br /&gt;
+&amp;#8211; Apple Podcasts: &lt;a href=&quot;https://apple.co/2lwqZIr&quot;&gt;https://apple.co/2lwqZIr&lt;/a&gt;&lt;br /&gt;
+&amp;#8211; Spotify: &lt;a href=&quot;https://spoti.fi/2nEwCF8&quot;&gt;https://spoti.fi/2nEwCF8&lt;/a&gt;&lt;br /&gt;
+&amp;#8211; RSS: &lt;a href=&quot;https://lexfridman.com/feed/podcast/&quot;&gt;https://lexfridman.com/feed/podcast/&lt;/a&gt;&lt;br /&gt;
+&amp;#8211; Podcast Playlist: &lt;a href=&quot;https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4&quot;&gt;https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4&lt;/a&gt;&lt;br /&gt;
+&amp;#8211; Clips Channel: &lt;a href=&quot;https://www.youtube.com/lexclips&quot;&gt;https://www.youtube.com/lexclips&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_paul_rosolie_3.mp3" type="audio/mpeg" length="139995282"/>
+      <guid>https://lexfridman.com/?p=6384</guid>
+      <pubDate>Tue, 13 Jan 2026 20:15:15 +0000</pubDate>
+      <ns0:duration>3:14:26</ns0:duration>
+    </item>
+    <item>
+      <title>[Darknet Diaries] 168: LoD</title>
+      <description>
+        &lt;p&gt;The Legion of Doom (LoD) wasn’t just a “hacker group”, it captured the essence of underground hacking in the 80s/90s. BBSes, phreaking, rival crews, and the crackdowns that changed everything. From those humble beginnings came a legacy that still echoes through modern security culture today.&lt;/p&gt;&lt;p&gt;This is part 1 of the LoD/MoD saga. Part 2 is &lt;a href=&quot;https://darknetdiaries.com/episode/169&quot;&gt;&lt;strong&gt;episode 169: “MoD”&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&lt;h3&gt;Sponsors&lt;/h3&gt;&lt;p&gt;Support for this show comes from &lt;a href=&quot;https://www.threatlocker.com/&quot;&gt;&lt;strong&gt;ThreatLocker®&lt;/strong&gt;&lt;/a&gt;. ThreatLocker® is a Zero Trust Endpoint Protection Platform that strengthens your infrastructure from the ground up. With ThreatLocker® Allowlisting and Ringfencing™, you gain a more secure approach to blocking exploits of known and unknown vulnerabilities. ThreatLocker® provides Zero Trust control at the kernel level that enables you to allow everything you need and block everything else, including ransomware! Learn more at &lt;a href=&quot;https://www.threatlocker.com/&quot;&gt;&lt;strong&gt;www.threatlocker.com&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This show is sponsored by &lt;a href=&quot;https://www.rippling.com/darknet&quot;&gt;&lt;strong&gt;Rippling&lt;/strong&gt;&lt;/a&gt;. Rippling is the unified platform for Global HR, Payroll, IT, and Finance. They’ve helped millions replace their mess of cobbled-together tools with one system designed to give leaders clarity, speed, and control. With Rippling, you can run your entire HR, IT, and Finance operations as one, or pick and choose the products that best fill the gaps in your software stack. Learn more &lt;a href=&quot;https://www.rippling.com/darknet&quot;&gt;&lt;strong&gt;rippling.com/darknet&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This show is sponsored by &lt;a href=&quot;https://meter.com/darknet&quot;&gt;&lt;strong&gt;Meter&lt;/strong&gt;&lt;/a&gt;, the company building networks from the ground up. Meter delivers a complete networking stack - wired, wireless, and cellular - in one solution that’s built for performance and scale. Meter’s full-stack solution covers everything from first site survey to ongoing support, giving you a single partner for all your connectivity needs. Go to &lt;a href=&quot;https://meter.com/darknet&quot;&gt;&lt;strong&gt;meter.com/darknet&lt;/strong&gt;&lt;/a&gt; to book a demo now!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Sources&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&quot;https://amzn.to/4q3O0gJ&quot;&gt;&lt;strong&gt;Book: Masters of Deception&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; (https://amzn.to/4q3O0gJ)&lt;/strong&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&quot;https://amzn.to/3N4bovY&quot;&gt;&lt;strong&gt;Book: The Hacker Crackdown&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; (https://amzn.to/3N4bovY)&lt;/strong&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+      </description>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/019ddc61-96d0-4f23-a7b1-205caf42a3b4/darknet-diaries-ep168-lod.mp3" type="audio/mpeg" length="82928356"/>
+      <guid>prx_7057_019ddc61-96d0-4f23-a7b1-205caf42a3b4</guid>
+      <pubDate>Tue, 06 Jan 2026 08:00:00 -0000</pubDate>
+      <ns0:duration>01:17:29</ns0:duration>
+    </item>
+    <item>
+      <title>[Serial] The Preventionist - Ep. 3</title>
+      <description>&lt;p&gt;What’s the harm of “better safe than sorry” in cases where abuse is ambiguous? One mother’s story is our answer to that question.&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Our newest podcast, “The Preventionist” is out now. Search for it wherever you get your podcasts.&lt;/p&gt;&lt;p&gt;To get full access to this and other Serial Productions and New York Times podcasts on Apple Podcasts and Spotify, subscribe at &lt;a href=&quot;https://nytimes.com/podcasts&quot;&gt;nytimes.com/podcasts&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;To find out about new shows from Serial Productions, and get a look behind the scenes, sign up for our newsletter at &lt;a href=&quot;https://www.nytimes.com/newsletters/serial&quot;&gt;&lt;strong&gt;nytimes.com/serialnewsletter.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Have a story pitch, a tip, or feedback on our shows? Email us at serialshows@nytimes.com&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/0d1cd45d-65cd-4d03-aded-ff6991eb98ff/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&amp;awEpisodeId=0d1cd45d-65cd-4d03-aded-ff6991eb98ff&amp;feed=xl36XBC2" type="audio/mpeg" length="56012496"/>
+      <guid>560da90f-2007-4fe8-a8dc-633792df2276</guid>
+      <pubDate>Thu, 30 Oct 2025 10:00:00 +0000</pubDate>
+      <ns0:duration>00:58:20</ns0:duration>
+    </item>
+    <item>
+      <title>[Serial] The Preventionist - Ep. 2</title>
+      <description>&lt;p&gt;One pediatrician’s path to Pennsylvania, and the rise of a powerful new field in child medicine.&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Our newest podcast, “The Preventionist” is out now. Search for it wherever you get your podcasts.&lt;/p&gt;&lt;p&gt;To get full access to this and other Serial Productions and New York Times podcasts on Apple Podcasts and Spotify, subscribe at &lt;a href=&quot;https://nytimes.com/podcasts&quot;&gt;nytimes.com/podcasts&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;To find out about new shows from Serial Productions, and get a look behind the scenes, sign up for our newsletter at &lt;a href=&quot;https://www.nytimes.com/newsletters/serial&quot;&gt;&lt;strong&gt;nytimes.com/serialnewsletter.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Have a story pitch, a tip, or feedback on our shows? Email us at serialshows@nytimes.com&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/7e38349a-8943-4150-a6da-7814ed8d7884/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&amp;awEpisodeId=7e38349a-8943-4150-a6da-7814ed8d7884&amp;feed=xl36XBC2" type="audio/mpeg" length="47933750"/>
+      <guid>659d6d93-3771-4591-9bde-81f95fe4e4ca</guid>
+      <pubDate>Thu, 30 Oct 2025 09:55:00 +0000</pubDate>
+      <ns0:duration>00:49:55</ns0:duration>
+    </item>
+    <item>
+      <title>[Heavyweight] Presenting Death, Sex &amp; Money | From Brazilian Butt Lifts to Botox: Your Beauty Confessions</title>
+      <description>&lt;p&gt;The Heavyweight team is hard at work on some episode updates for later this spring, as well as a brand new season, which will be coming this fall. But in the meantime, we wanted to &amp;ldquo;wet your whistles,&amp;rdquo; so to speak, with another show that we respect and enjoy. It&amp;rsquo;s called (00:04:30) &lt;a href=&quot;https://apple.co/49Kje70&quot;&gt;Death, Sex &amp;amp; Money&lt;/a&gt;.&lt;br&gt;&lt;br&gt;In this episode, host Anna Sale talks to listeners about their appearance choices: Asher, who spent $43,000 on plastic surgery and openly celebrates his investments; Caroline, who used fillers and Botox after her divorce but recently filed for bankruptcy and can no longer afford treatments; Alexandra, who stopped dyeing her gray hair at 38 despite pushback from family; and Nick, whose multiple cosmetic surgeries nearly ended his marriage and forced him to confront deeper issues.&lt;/p&gt; &lt;p&gt;Find more episodes of Death, Sex &amp;amp; Money wherever you get podcasts.&lt;/p&gt;&lt;p&gt;See &lt;a href=&quot;https://omnystudio.com/listener&quot;&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <enclosure url="https://pdrl.fm/a95070/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/a03da96e-2027-4a3b-9931-b3e00186af43/audio.mp3?utm_source=Podcast&amp;in_playlist=d08826cd-f888-4cd3-b700-b28e0126edbb" type="audio/mpeg" length="62376094"/>
+      <guid>a03da96e-2027-4a3b-9931-b3e00186af43</guid>
+      <pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
+      <ns0:duration>3896</ns0:duration>
+    </item>
+    <item>
+      <title>[Reply All] #189 Goodbye All</title>
+      <description>One last thing before we go.
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <enclosure url="https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT8627189710.mp3?updated=1655947230" type="audio/mpeg" length="0"/>
+      <guid>82e2118c-a56e-11ec-8697-6fde37096779</guid>
+      <pubDate>Thu, 23 Jun 2022 10:00:00 -0000</pubDate>
+      <ns0:duration>3049</ns0:duration>
+    </item>
+    <item>
+      <title>[Heavyweight] #66 Deborah</title>
+      <description>&lt;p&gt;At 101 years old, Deborah discovered a box she'd stashed away a lifetime ago. What was inside reignited an old love and turned her life upside down.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;Get ad-free episodes of Heavyweight by subscribing to Pushkin+ on &lt;a href=&quot;https://podcasts.apple.com/us/podcast/heavyweight/id1150800298&quot;&gt;Apple Podcasts&lt;/a&gt; or &lt;a href=&quot;https://www.pushkin.fm/join-pushkin&quot;&gt;Pushkin.fm&lt;/a&gt;. You'll also get an exclusive bonus episode where Jonathan, Stevie, and Kalila remember how the beloved Jackie calls came to be and share a never-before-aired opening that could have started the show in an alternate Heavyweight universe. Thanks for your support&amp;mdash;and be sure to check out the other offerings available to Pushkin+ subscribers, including ad-free episodes, full audiobooks, and exclusive binges of other podcasts throughout the year.&lt;/p&gt; &lt;p&gt;Subscribe on Apple: &lt;a href=&quot;https://podcasts.apple.com/us/podcast/heavyweight/id1150800298&quot;&gt;apple.co/pushkin&lt;/a&gt;&lt;br&gt;Subscribe on Pushkin: &lt;a href=&quot;https://www.pushkin.fm/join-pushkin&quot;&gt;pushkin.com/plus&lt;/a&gt;&lt;/p&gt;&lt;p&gt;See &lt;a href=&quot;https://omnystudio.com/listener&quot;&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <enclosure url="https://pdrl.fm/a95070/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/3c0eb72f-0017-489f-a549-b3b7002020a9/audio.mp3?utm_source=Podcast&amp;in_playlist=d08826cd-f888-4cd3-b700-b28e0126edbb" type="audio/mpeg" length="40588129"/>
+      <guid>3c0eb72f-0017-489f-a549-b3b7002020a9</guid>
+      <pubDate>Thu, 18 Dec 2025 09:00:00 +0000</pubDate>
+      <ns0:duration>2535</ns0:duration>
+    </item>
+    <item>
+      <title>[Reply All] Casey Wants to Believe</title>
+      <description>If you like this episode and want to hear more, please sign up for our premium feed here! https://hyperfixedpod.com/joinIf you would like to join at the $60 yearly level and receive your very own Big Chub Chet's button, you can do so here:https://hyperfixedpod.com/buttonThere are a limited number so get them before they're gone! Casey has been chasing the origin of a very specific piece of ephemera for almost 15 years. He came to us for help.LINKS:Busy Beaver Button MuseumThe Button in Question (Spoilers! don't look until the episode is done!)
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <enclosure url="https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT5843461507.mp3?updated=1733238939" type="audio/mpeg" length="0"/>
+      <guid>c0633378-b188-11ef-bcb2-677967fca1e9</guid>
+      <pubDate>Thu, 05 Dec 2024 08:00:00 -0000</pubDate>
+      <ns0:duration>2057</ns0:duration>
+    </item>
+    <item>
+      <title>[This American Life] 851: Try a Little Tenderness</title>
+      <description>&lt;p&gt;In the new year, stories of people trying a radical approach to solving their problems.
+
+&lt;/p&gt;&lt;p&gt;Visit &lt;a href=&quot;https://thisamericanlife.supercast.com?utm_id=lifepartners&amp;utm_source=rss&amp;utm_medium=shownotes&quot;&gt;thisamericanlife.org/lifepartners&lt;/a&gt; to sign up for our premium subscription.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Prologue: Ira meets two sisters who got into a fight, and then learned a lesson in turning the other cheek. (8 minutes)&lt;/li&gt;&lt;li&gt;Act One: A hardened PI works the toughest case of his very young life. (18 minutes)&lt;/li&gt;&lt;li&gt;Act Two: Producer Aviva DeKornfeld talks to a man who finds himself the target of vengeful crows. (8 minutes)&lt;/li&gt;&lt;li&gt;Act Three: Comedian Josh Johnson wonders if some people should’ve been spanked as kids. (10 minutes)&lt;/li&gt;&lt;li&gt;Act Four: Writer Etgar Keret reads his story about a bus driver who refuses to open the doors for late passengers. (9 minutes)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Transcripts are available at &lt;a href=&quot;https://www.thisamericanlife.org/851/transcript&quot;&gt;thisamericanlife.org&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href='https://www.thisamericanlife.org/page/privacy-policy'&gt;This American Life privacy policy.&lt;/a&gt;&lt;br /&gt;&lt;a href='https://podcastchoices.com/adchoices'&gt;Learn more about sponsor message choices.&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3" type="audio/mpeg" length="0"/>
+      <guid>45828 at https://www.thisamericanlife.org</guid>
+      <pubDate>Sun, 25 Jan 2026 18:00:00 -0500</pubDate>
+      <ns0:duration>01:01:27</ns0:duration>
+    </item>
+    <item>
+      <title>[This American Life] 879: A Christian and a Muslim Walk Into a Bar</title>
+      <description>&lt;p&gt;When a joke could get you killed, should you say it anyway? A group of Syrian comedians test the limits of their newfound freedom, a year after the fall of the brutal Assad regime.
+
+&lt;/p&gt;&lt;p&gt;Visit &lt;a href=&quot;https://thisamericanlife.supercast.com?utm_id=lifepartners&amp;utm_source=rss&amp;utm_medium=shownotes&quot;&gt;thisamericanlife.org/lifepartners&lt;/a&gt; to sign up for our premium subscription.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Prologue: Under the dictatorship of Bashar al-Assad, comedian Sharief Homsi knew which jokes were too dangerous to say on stage. Now that Syria is under the control of a new government, Sharief and the other comedians of “Styria” set out on a national tour to see how far their comedy can go in this new Syria. (6 minutes)&lt;/li&gt;&lt;li&gt;Act One: The comedians test out risky material and get big laughs on early tour dates. It’s going smoothly until they find out that their show scheduled in the conservative city of Hama is in danger of being cancelled. (13 minutes)&lt;/li&gt;&lt;li&gt;Act Two: The comedians go to battle with local officials. (18 minutes)&lt;/li&gt;&lt;li&gt;Act Three: The comedians try everything they can think of to keep their shows from being cancelled. (20 minutes)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Transcripts are available at &lt;a href=&quot;https://www.thisamericanlife.org/879/transcript&quot;&gt;thisamericanlife.org&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href='https://www.thisamericanlife.org/page/privacy-policy'&gt;This American Life privacy policy.&lt;/a&gt;&lt;br /&gt;&lt;a href='https://podcastchoices.com/adchoices'&gt;Learn more about sponsor message choices.&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3" type="audio/mpeg" length="0"/>
+      <guid>46087 at https://www.thisamericanlife.org</guid>
+      <pubDate>Sun, 18 Jan 2026 18:00:00 -0500</pubDate>
+      <ns0:duration>01:00:37</ns0:duration>
+    </item>
+    <item>
+      <title>[13 Minutes Presents: The Space Shuttle] 13 Minutes to the Moon: Trailer, T-minus 3</title>
+      <description>&lt;p&gt;Introducing 13 Minutes to the Moon, with Apollo 7 astronaut Walt Cunningham and former Apollo engineer Poppy Northcutt - the first woman to work as an engineer in an operational support role in NASA's Mission Control.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p076c6qk.mp3" type="audio/mpeg" length="2640000"/>
+      <guid>urn:bbc:podcast:p076c722</guid>
+      <pubDate>Mon, 22 Apr 2019 01:00:00 +0000</pubDate>
+      <ns0:duration>165</ns0:duration>
+    </item>
+    <item>
+      <title>[99% Invisible] Constitution Breakdown #6: Adam Liptak</title>
+      <description>&lt;p&gt;This is the sixth episode of our ongoing series breaking down the U.S. Constitution.&lt;/p&gt;&lt;p&gt;This month, Roman and Elizabeth discuss Article III, which establishes the judicial branch, alongside &lt;i&gt;New York Times &lt;/i&gt;chief legal affairs correspondent, &lt;a href=&quot;https://www.nytimes.com/by/adam-liptak&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Adam Liptak&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and a whole week early.&amp;nbsp;&lt;br&gt;&lt;br&gt;Start a free trial now on Apple Podcasts or by visiting &lt;a href=&quot;http://siriusxm.com/podcastsplus.&quot; target=&quot;_blank&quot;&gt;siriusxm.com/podcastsplus&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;/p&gt;&lt;br/&gt; &lt;p&gt;Hosted by Simplecast, an AdsWizz company. See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for advertising.&lt;/p&gt;</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/01fb4c36-7241-478f-9f8d-ea9ce18d0503/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=01fb4c36-7241-478f-9f8d-ea9ce18d0503&amp;feed=BqbsxVfO" type="audio/mpeg" length="63375314"/>
+      <guid>97ee1bf2-a1a5-4ab2-b76f-dd74375c206e</guid>
+      <pubDate>Fri, 30 Jan 2026 18:15:00 +0000</pubDate>
+      <ns0:duration>01:00:43</ns0:duration>
+    </item>
+    <item>
+      <title>[Radiolab] Song of the Cerebellum</title>
+      <description>&lt;p&gt;One spring evening in 2024, a science journalist named Rachel Gross bombed at karaoke. The culprit was a bleed in a fist-sized clump of neurons tucked down in the back and bottom of her brain called the cerebellum. A couple weeks later, her doctors took a bit of it out, assuring her it was just helping her just did basic motor control — she might be a bit clumsy for a while, but she’d still be herself. But afterwards, she didn't feel like herself. So she dove into the dusty basement of the brain (and brain science) to figure out why. What Rachel found was a burgeoning new frontier in neuroscience. We learn what singing Shakira on stage has to do with reaching for a cup of coffee — and how the surprising relationship between the two is making us rethink what we think about thinking.&lt;/p&gt;&lt;p&gt;&lt;i&gt;Special thanks to Warzone Karaoke at Branded Saloon, Joanne Loewy and the “Singing Together, Measure by Measure” choir for stroke survivors, Dag Spicer and the Computer History Museum, Désirée Lie, Mark Gross, Daniel A. Gross, Brittany Aguilar, and, of course, Shakira.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EPISODE CREDITS: &lt;/strong&gt;&lt;br /&gt;Reported by - Rachel Gross&lt;br /&gt;Produced by - Sindhu Gnanasambandan&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;EPISODE CITATIONS:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Articles -&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;“&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/39934082/&quot;&gt;&lt;i&gt;Ignoring the cerebellum is hindering progress in neuroscience&lt;/i&gt;&lt;/a&gt;.” (https://pubmed.ncbi.nlm.nih.gov/39934082/), by Wang et al, 2025&lt;/li&gt;&lt;li&gt;“&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/29997061/&quot;&gt;&lt;i&gt;The cerebellum and cognition.&lt;/i&gt;&lt;/a&gt;” (https://pubmed.ncbi.nlm.nih.gov/29997061/), by Schmahmann JD. Neurosci Lett. 2019&lt;/li&gt;&lt;li&gt;“&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/11805823/&quot;&gt;&lt;i&gt;How did brains evolve?&lt;/i&gt;&lt;/a&gt;&lt;i&gt;” (https://pubmed.ncbi.nlm.nih.gov/11805823/),&lt;/i&gt; by Barton RA., Nature. 2002&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Books - &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.rachelegross.com/book&quot;&gt;Vagina Obscura&lt;/a&gt; (https://www.rachelegross.com/book), by Rachel E. Gross&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;i&gt;Sign up for our newsletter!! It includes short essays, recommendations, and details about other ways to interact with the show. &lt;/i&gt;&lt;a href=&quot;https://radiolab.org/newsletter&quot;&gt;&lt;i&gt;Signup&lt;/i&gt;&lt;/a&gt;&lt;i&gt; (https://radiolab.org/newsletter)!&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Radiolab is supported by listeners like you. Support Radiolab by becoming a member of &lt;/i&gt;&lt;a href=&quot;http://members.radiolab.org&quot;&gt;&lt;i&gt;The Lab&lt;/i&gt;&lt;/a&gt;&lt;i&gt; (https://members.radiolab.org/) today.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Follow our show on &lt;/i&gt;&lt;a href=&quot;http://instagram.com/radiolab&quot;&gt;&lt;i&gt;Instagram&lt;/i&gt;&lt;/a&gt;&lt;i&gt;, &lt;/i&gt;&lt;a href=&quot;http://twitter.com/radiolab&quot;&gt;&lt;i&gt;Twitter&lt;/i&gt;&lt;/a&gt;&lt;i&gt; and &lt;/i&gt;&lt;a href=&quot;http://facebook.com/radiolab&quot;&gt;&lt;i&gt;Facebook&lt;/i&gt;&lt;/a&gt;&lt;i&gt; @radiolab, and share your thoughts with us by emailing &lt;/i&gt;&lt;a href=&quot;mailto:radiolab@wnyc.org&quot;&gt;&lt;i&gt;radiolab@wnyc.org&lt;/i&gt;&lt;/a&gt;&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Leadership support for Radiolab’s science programming is provided by the Gordon and Betty Moore Foundation, Science Sandbox, a Simons Foundation Initiative, and the John Templeton Foundation. Foundational support for Radiolab was provided by the Alfred P. Sloan Foundation.&lt;/i&gt;&lt;/p&gt;
+</description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/0a1600f7-8ae1-4031-b35d-be4e5f76044f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&amp;awEpisodeId=0a1600f7-8ae1-4031-b35d-be4e5f76044f&amp;feed=EmVW7VGp" type="audio/mpeg" length="41106048"/>
+      <guid>4ee1494f-b12a-4422-a96a-83bc3406db76</guid>
+      <pubDate>Fri, 30 Jan 2026 15:00:00 +0000</pubDate>
+      <ns0:duration>00:42:49</ns0:duration>
+    </item>
+    <item>
+      <title>[Radiolab] You and Me and Mr. Self-Esteem</title>
+      <description>&lt;p&gt;Most of us spend some part of our lives feeling bad about ourselves and wanting to feel better. But this preoccupation is a surprisingly new one in the history of the world, and can largely be traced back to one man: a rumpled, convertible-driving California state representative named John Vasconcellos who helped spark a movement that took over schools, board rooms, and social-service offices across America in the 1990s. This week, we look at the rise and fall of the self-esteem movement and ask: is it possible to raise your self-esteem? And is trying to do so even a good idea?&lt;/p&gt;&lt;p&gt;&lt;i&gt;Special thanks to&lt;/i&gt; &lt;i&gt;big thank you to the University of California, Santa Barbara Library for use of audio material from their Humanistic Psychology Archives and to their staff for helping located so many audio recordings. &lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EPISODE CREDITS:&lt;/strong&gt;&lt;br /&gt;Reported by - Heather Radke and Matt Kielty &lt;br /&gt;Produced by - Matt Kietly&lt;br /&gt;Original music and sound design by - Jeremy S. Bloom and Matt Kielty&lt;br /&gt;Flute performance and compositions by -  Ben Batchelder&lt;br /&gt;Voiceover work by - Dann Fink and David Gebel&lt;br /&gt;Mixing help by - Jeremy S. Bloom&lt;br /&gt;Fact-checking by - Anna Pujol-Mazzini and  Angely Mercado&lt;br /&gt;and Edited by  - Pat Walters&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EPISODE CITATIONS:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Articles - &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.library.ucsb.edu/special-collections/collections/hpa&quot;&gt;UCSB Humanistic Psychology Archive&lt;/a&gt; (https://zpr.io/HfVjUmvcVevE)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Books - &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.abramsbooks.com/product/selfie_9781468316957/&quot;&gt;&lt;i&gt;Selfie: How We Became So Self-Obsessed and What It's Doing to Us&lt;/i&gt;&lt;/a&gt; (&lt;a href=&quot;https://zpr.io/eGRyqz9zNQHu&quot;&gt;https://zpr.io/eGRyqz9zNQHu&lt;/a&gt;) by Will Storr. Counterpoint, 2018.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.abebooks.com/9780915166169/Liberating-Vision-Politics-Growing-Humans-091516616X/plp&quot;&gt;&lt;i&gt;A Liberating Vision&lt;/i&gt;&lt;/a&gt; (https://zpr.io/tJn7BR5m84fv) by Vasconcellos, John.&lt;i&gt; &lt;/i&gt;&lt;a href=&quot;https://www.abebooks.com/book-search/publisher/impact-publishers-inc/&quot;&gt;Impact Publishers, Inc.&lt;/a&gt;, 1979&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://nyupress.org/9780814757918/the-therapeutic-state/&quot;&gt;&lt;i&gt;The Therapeutic State&lt;/i&gt;&lt;/a&gt; (&lt;a href=&quot;https://zpr.io/tJn7BR5m84fv&quot;&gt;https://zpr.io/tJn7BR5m84fv&lt;/a&gt;) by Nolan, James, Jr.&lt;i&gt; &lt;/i&gt;NYU Press, 1998&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;i&gt;Sing up for our newsletter. It includes short essays, recommendations, and details about other ways to interact with the show. &lt;/i&gt;&lt;a href=&quot;https://radiolab.org/newsletter&quot;&gt;&lt;i&gt;Sign up&lt;/i&gt;&lt;/a&gt;&lt;i&gt; (https://radiolab.org/newsletter)!&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Radiolab is supported by listeners like you. Support Radiolab by becoming a member of &lt;/i&gt;&lt;a href=&quot;http://members.radiolab.org&quot;&gt;&lt;i&gt;The Lab&lt;/i&gt;&lt;/a&gt;&lt;i&gt; (https://members.radiolab.org/) today.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Follow our show on &lt;/i&gt;&lt;a href=&quot;http://instagram.com/radiolab&quot;&gt;&lt;i&gt;Instagram&lt;/i&gt;&lt;/a&gt;&lt;i&gt;, &lt;/i&gt;&lt;a href=&quot;http://twitter.com/radiolab&quot;&gt;&lt;i&gt;Twitter&lt;/i&gt;&lt;/a&gt;&lt;i&gt; and &lt;/i&gt;&lt;a href=&quot;http://facebook.com/radiolab&quot;&gt;&lt;i&gt;Facebook&lt;/i&gt;&lt;/a&gt;&lt;i&gt; @radiolab, and share your thoughts with us by emailing &lt;/i&gt;&lt;a href=&quot;mailto:radiolab@wnyc.org&quot;&gt;&lt;i&gt;radiolab@wnyc.org&lt;/i&gt;&lt;/a&gt;&lt;i&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Leadership support for Radiolab’s science programming is provided by the Gordon and Betty Moore Foundation, Science Sandbox, a Simons Foundation Initiative, and the John Templeton Foundation. Foundational support for Radiolab was provided by the Alfred P. Sloan Foundation.&lt;/i&gt;&lt;/p&gt;
+</description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/d55eb06a-5776-4b53-81a8-1edb56eb76d7/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&amp;awEpisodeId=d55eb06a-5776-4b53-81a8-1edb56eb76d7&amp;feed=EmVW7VGp" type="audio/mpeg" length="74797746"/>
+      <guid>ab95cfc0-afc7-488c-9f3c-4d74a8f392fb</guid>
+      <pubDate>Fri, 23 Jan 2026 11:00:00 +0000</pubDate>
+      <ns0:duration>01:17:54</ns0:duration>
+    </item>
+    <item>
+      <title>[13 Minutes Presents: The Space Shuttle] 13 Minutes to the Moon: Trailer, T-minus 4 </title>
+      <description>&lt;p&gt;The countdown begins. The story of Apollo 11 – coming soon.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p076bhc6.mp3" type="audio/mpeg" length="352000"/>
+      <guid>urn:bbc:podcast:p076bhsv</guid>
+      <pubDate>Fri, 12 Apr 2019 14:49:00 +0000</pubDate>
+      <ns0:duration>22</ns0:duration>
+    </item>
+  </channel>
+</rss>

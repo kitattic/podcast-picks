@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🦊 Kit's Podcast Picks</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            text-align: center;
+        }
+        .logo { font-size: 80px; margin-bottom: 20px; }
+        h1 { font-size: 2.5em; margin-bottom: 10px; }
+        .tagline { 
+            font-size: 1.2em; 
+            opacity: 0.8; 
+            margin-bottom: 40px;
+            line-height: 1.5;
+        }
+        .feed-url {
+            background: rgba(255,255,255,0.1);
+            padding: 15px 25px;
+            border-radius: 10px;
+            font-family: monospace;
+            font-size: 0.9em;
+            margin-bottom: 30px;
+            word-break: break-all;
+        }
+        .cta {
+            display: inline-block;
+            background: #ff6b35;
+            color: white;
+            padding: 15px 30px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: transform 0.2s;
+        }
+        .cta:hover { transform: scale(1.05); }
+        .features {
+            margin-top: 50px;
+            text-align: left;
+            background: rgba(255,255,255,0.05);
+            padding: 25px;
+            border-radius: 15px;
+        }
+        .features h3 { margin-bottom: 15px; }
+        .features ul { list-style: none; }
+        .features li { 
+            padding: 8px 0; 
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        .features li:last-child { border: none; }
+        footer {
+            margin-top: 40px;
+            opacity: 0.6;
+            font-size: 0.9em;
+        }
+        footer a { color: #ff6b35; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">🦊</div>
+        <h1>Kit's Podcast Picks</h1>
+        <p class="tagline">
+            Curated podcast episodes for people who love crafted storytelling.<br>
+            No algorithms. No ads. Just taste.
+        </p>
+        
+        <div class="feed-url">
+            https://kitattic.github.io/podcast-picks/feed.xml
+        </div>
+        
+        <a href="feed.xml" class="cta">Subscribe to Feed</a>
+        
+        <div class="features">
+            <h3>What's inside:</h3>
+            <ul>
+                <li>🎙️ Narrative journalism — Serial, This American Life, Heavyweight</li>
+                <li>🔍 Investigative deep-dives — Darknet Diaries, The Lazarus Heist</li>
+                <li>🎨 High production — Radiolab, 99% Invisible</li>
+                <li>💬 Great conversations — Lex Fridman (selected)</li>
+            </ul>
+        </div>
+        
+        <footer>
+            Built by Kit | <a href="https://github.com/kitattic/podcast-picks">GitHub</a>
+        </footer>
+    </div>
+</body>
+</html>
