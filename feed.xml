@@ -5,76 +5,13 @@
     <description>Curated podcast episodes for people who love crafted storytelling, investigative journalism, and shows that respect your time. No algorithms. No ads. Just Kit's taste.</description>
     <link>https://github.com/kitattic/podcast-picks</link>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Jan 2026 02:24:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 16:00:23 GMT</lastBuildDate>
     <ns0:author>Kit (kitattic.com)</ns0:author>
     <ns0:summary>Curated podcast episodes for people who love crafted storytelling, investigative journalism, and shows that respect your time. No algorithms. No ads. Just Kit's taste.</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:image href="https://kitattic.github.io/podcast-picks/artwork.jpg"/>
     <ns0:category text="Society &amp;amp; Culture"/>
     <ns1:link href="https://kitattic.github.io/podcast-picks/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>[Lex Fridman Podcast] #488 – Infinity, Paradoxes that Broke Mathematics, Gödel Incompleteness &amp; the Multiverse – Joel David Hamkins</title>
-      <description>&lt;p&gt;Joel David Hamkins is a mathematician and philosopher specializing in set theory, the foundations of mathematics, and the nature of infinity, and he&amp;#8217;s the #1 highest-rated user on MathOverflow. He is also the author of several books, including Proof and the Art of Mathematics and Lectures on the Philosophy of Mathematics. And he has a great blog called Infinitely More.&lt;br /&gt;
-Thank you for listening ❤ Check out our sponsors: &lt;a href=&quot;https://lexfridman.com/sponsors/ep488-sc&quot;&gt;https://lexfridman.com/sponsors/ep488-sc&lt;/a&gt;&lt;br /&gt;
-See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Transcript:&lt;/b&gt;&lt;br /&gt;
-&lt;a href=&quot;https://lexfridman.com/joel-david-hamkins-transcript&quot;&gt;https://lexfridman.com/joel-david-hamkins-transcript&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;CONTACT LEX:&lt;/b&gt;&lt;br /&gt;
-&lt;b&gt;Feedback&lt;/b&gt; &amp;#8211; give feedback to Lex: &lt;a href=&quot;https://lexfridman.com/survey&quot;&gt;https://lexfridman.com/survey&lt;/a&gt;&lt;br /&gt;
-&lt;b&gt;AMA&lt;/b&gt; &amp;#8211; submit questions, videos or call-in: &lt;a href=&quot;https://lexfridman.com/ama&quot;&gt;https://lexfridman.com/ama&lt;/a&gt;&lt;br /&gt;
-&lt;b&gt;Hiring&lt;/b&gt; &amp;#8211; join our team: &lt;a href=&quot;https://lexfridman.com/hiring&quot;&gt;https://lexfridman.com/hiring&lt;/a&gt;&lt;br /&gt;
-&lt;b&gt;Other&lt;/b&gt; &amp;#8211; other ways to get in touch: &lt;a href=&quot;https://lexfridman.com/contact&quot;&gt;https://lexfridman.com/contact&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;EPISODE LINKS:&lt;/b&gt;&lt;br /&gt;
-Joel&amp;#8217;s X: &lt;a href=&quot;https://x.com/JDHamkins&quot;&gt;https://x.com/JDHamkins&lt;/a&gt;&lt;br /&gt;
-Joel&amp;#8217;s Website: &lt;a href=&quot;https://jdh.hamkins.org&quot;&gt;https://jdh.hamkins.org&lt;/a&gt;&lt;br /&gt;
-Joel&amp;#8217;s Substack: &lt;a href=&quot;https://www.infinitelymore.xyz&quot;&gt;https://www.infinitelymore.xyz&lt;/a&gt;&lt;br /&gt;
-Joel&amp;#8217;s MathOverflow: &lt;a href=&quot;https://mathoverflow.net/users/1946/joel-david-hamkins&quot;&gt;https://mathoverflow.net/users/1946/joel-david-hamkins&lt;/a&gt;&lt;br /&gt;
-Joel&amp;#8217;s Papers: &lt;a href=&quot;https://jdh.hamkins.org/publications&quot;&gt;https://jdh.hamkins.org/publications&lt;/a&gt;&lt;br /&gt;
-Joel&amp;#8217;s Books:&lt;br /&gt;
-Lectures on the Philosophy of Mathematics: &lt;a href=&quot;https://amzn.to/3MThaAt&quot;&gt;https://amzn.to/3MThaAt&lt;/a&gt;&lt;br /&gt;
-Proof and the Art of Mathematics: &lt;a href=&quot;https://amzn.to/3YACc9A&quot;&gt;https://amzn.to/3YACc9A&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;SPONSORS:&lt;/b&gt;&lt;br /&gt;
-To support this podcast, check out our sponsors &amp;#38; get discounts:&lt;br /&gt;
-&lt;b&gt;Perplexity:&lt;/b&gt; AI-powered answer engine.&lt;br /&gt;
-Go to &lt;a href=&quot;https://lexfridman.com/s/perplexity-ep488-sc&quot;&gt;https://www.perplexity.ai/&lt;/a&gt;&lt;br /&gt;
-&lt;b&gt;Fin:&lt;/b&gt; AI agent for customer service.&lt;br /&gt;
-Go to &lt;a href=&quot;https://lexfridman.com/s/fin-ep488-sc&quot;&gt;https://fin.ai/lex&lt;/a&gt;&lt;br /&gt;
-&lt;b&gt;Miro:&lt;/b&gt; Online collaborative whiteboard platform.&lt;br /&gt;
-Go to &lt;a href=&quot;https://lexfridman.com/s/miro-ep488-sc&quot;&gt;https://miro.com/&lt;/a&gt;&lt;br /&gt;
-&lt;b&gt;CodeRabbit:&lt;/b&gt; AI-powered code reviews.&lt;br /&gt;
-Go to &lt;a href=&quot;https://lexfridman.com/s/coderabbit-ep488-sc&quot;&gt;https://coderabbit.ai/lex&lt;/a&gt;&lt;br /&gt;
-&lt;b&gt;Chevron:&lt;/b&gt; Reliable energy for data centers.&lt;br /&gt;
-Go to &lt;a href=&quot;https://lexfridman.com/s/chevron-ep488-sc&quot;&gt;https://chevron.com/power&lt;/a&gt;&lt;br /&gt;
-&lt;b&gt;Shopify:&lt;/b&gt; Sell stuff online.&lt;br /&gt;
-Go to &lt;a href=&quot;https://lexfridman.com/s/shopify-ep488-sc&quot;&gt;https://shopify.com/lex&lt;/a&gt;&lt;br /&gt;
-&lt;b&gt;LMNT:&lt;/b&gt; Zero-sugar electrolyte drink mix.&lt;br /&gt;
-Go to &lt;a href=&quot;https://lexfridman.com/s/lmnt-ep488-sc&quot;&gt;https://drinkLMNT.com/lex&lt;/a&gt;&lt;br /&gt;
-&lt;b&gt;MasterClass:&lt;/b&gt; Online classes from world-class experts.&lt;br /&gt;
-Go to &lt;a href=&quot;https://lexfridman.com/s/masterclass-ep488-sc&quot;&gt;https://masterclass.com/lexpod&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;OUTLINE:&lt;/b&gt;&lt;br /&gt;
-(00:00) &amp;#8211; Introduction&lt;br /&gt;
-(01:58) &amp;#8211; Sponsors, Comments, and Reflections&lt;br /&gt;
-(15:40) &amp;#8211; Infinity &amp;#38; paradoxes&lt;br /&gt;
-(1:02:50) &amp;#8211; Russell&amp;#8217;s paradox&lt;br /&gt;
-(1:15:57) &amp;#8211; Gödel&amp;#8217;s incompleteness theorems&lt;br /&gt;
-(1:33:28) &amp;#8211; Truth vs proof&lt;br /&gt;
-(1:44:52) &amp;#8211; The Halting Problem&lt;br /&gt;
-(2:00:45) &amp;#8211; Does infinity exist?&lt;br /&gt;
-(2:18:19) &amp;#8211; MathOverflow&lt;br /&gt;
-(2:22:12) &amp;#8211; The Continuum Hypothesis&lt;br /&gt;
-(2:31:58) &amp;#8211; Hardest problems in mathematics&lt;br /&gt;
-(2:41:25) &amp;#8211; Mathematical multiverse&lt;br /&gt;
-(3:00:18) &amp;#8211; Surreal numbers&lt;br /&gt;
-(3:10:55) &amp;#8211; Conway&amp;#8217;s Game of Life&lt;br /&gt;
-(3:13:11) &amp;#8211; Computability theory&lt;br /&gt;
-(3:23:04) &amp;#8211; P vs NP&lt;br /&gt;
-(3:26:21) &amp;#8211; Greatest mathematicians in history&lt;br /&gt;
-(3:40:05) &amp;#8211; Infinite chess&lt;br /&gt;
-(3:58:24) &amp;#8211; Most beautiful idea in mathematics&lt;/p&gt;</description>
-      <enclosure url="https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_joel_david_hamkins.mp3" type="audio/mpeg" length="5242880"/>
-      <guid>https://lexfridman.com/?p=6378</guid>
-      <pubDate>Wed, 31 Dec 2025 21:24:33 +0000</pubDate>
-    </item>
     <item>
       <title>[99% Invisible] What’s in a Name</title>
       <description>&lt;p&gt;Throughout Africa and beyond, Zimbabweans are known for choosing some of the most bold, head-turning English-language names. Zimbabwean producer Kim Chakanetsa tells the story of how her country's journey from colonial rule to independence shaped the nation's unique naming traditions.&lt;/p&gt;
@@ -252,6 +189,68 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</descriptio
       <guid>46087 at https://www.thisamericanlife.org</guid>
       <pubDate>Sun, 18 Jan 2026 18:00:00 -0500</pubDate>
       <ns0:duration>01:00:37</ns0:duration>
+    </item>
+    <item>
+      <title>[Lex Fridman Podcast] #490 – State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI</title>
+      <description>&lt;p&gt;Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training lead at the Allen Institute for AI (Ai2) and the author of The RLHF Book. Sebastian Raschka is the author of Build a Large Language Model (From Scratch) and Build a Reasoning Model (From Scratch).&lt;br /&gt;
+Thank you for listening ❤ Check out our sponsors: &lt;a href=&quot;https://lexfridman.com/sponsors/ep490-sc&quot;&gt;https://lexfridman.com/sponsors/ep490-sc&lt;/a&gt;&lt;br /&gt;
+See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Transcript:&lt;/b&gt;&lt;br /&gt;
+&lt;a href=&quot;https://lexfridman.com/ai-sota-2026-transcript&quot;&gt;https://lexfridman.com/ai-sota-2026-transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;CONTACT LEX:&lt;/b&gt;&lt;br /&gt;
+&lt;b&gt;Feedback&lt;/b&gt; &amp;#8211; give feedback to Lex: &lt;a href=&quot;https://lexfridman.com/survey&quot;&gt;https://lexfridman.com/survey&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;AMA&lt;/b&gt; &amp;#8211; submit questions, videos or call-in: &lt;a href=&quot;https://lexfridman.com/ama&quot;&gt;https://lexfridman.com/ama&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Hiring&lt;/b&gt; &amp;#8211; join our team: &lt;a href=&quot;https://lexfridman.com/hiring&quot;&gt;https://lexfridman.com/hiring&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Other&lt;/b&gt; &amp;#8211; other ways to get in touch: &lt;a href=&quot;https://lexfridman.com/contact&quot;&gt;https://lexfridman.com/contact&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;SPONSORS:&lt;/b&gt;&lt;br /&gt;
+To support this podcast, check out our sponsors &amp;#38; get discounts:&lt;br /&gt;
+&lt;b&gt;Box:&lt;/b&gt; Intelligent content management platform.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/box-ep490-sc&quot;&gt;https://box.com/ai&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Quo:&lt;/b&gt; Phone system (calls, texts, contacts) for businesses.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/quo-ep490-sc&quot;&gt;https://quo.com/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;UPLIFT Desk:&lt;/b&gt; Standing desks and office ergonomics.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/uplift_desk-ep490-sc&quot;&gt;https://upliftdesk.com/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Fin:&lt;/b&gt; AI agent for customer service.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/fin-ep490-sc&quot;&gt;https://fin.ai/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Shopify:&lt;/b&gt; Sell stuff online.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/shopify-ep490-sc&quot;&gt;https://shopify.com/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;CodeRabbit:&lt;/b&gt; AI-powered code reviews.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/coderabbit-ep490-sc&quot;&gt;https://coderabbit.ai/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;LMNT:&lt;/b&gt; Zero-sugar electrolyte drink mix.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/lmnt-ep490-sc&quot;&gt;https://drinkLMNT.com/lex&lt;/a&gt;&lt;br /&gt;
+&lt;b&gt;Perplexity:&lt;/b&gt; AI-powered answer engine.&lt;br /&gt;
+Go to &lt;a href=&quot;https://lexfridman.com/s/perplexity-ep490-sc&quot;&gt;https://perplexity.ai/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;OUTLINE:&lt;/b&gt;&lt;br /&gt;
+(00:00) &amp;#8211; Introduction&lt;br /&gt;
+(01:39) &amp;#8211; Sponsors, Comments, and Reflections&lt;br /&gt;
+(16:29) &amp;#8211; China vs US: Who wins the AI race?&lt;br /&gt;
+(25:11) &amp;#8211; ChatGPT vs Claude vs Gemini vs Grok: Who is winning?&lt;br /&gt;
+(36:11) &amp;#8211; Best AI for coding&lt;br /&gt;
+(43:02) &amp;#8211; Open Source vs Closed Source LLMs&lt;br /&gt;
+(54:41) &amp;#8211; Transformers: Evolution of LLMs since 2019&lt;br /&gt;
+(1:02:38) &amp;#8211; AI Scaling Laws: Are they dead or still holding?&lt;br /&gt;
+(1:18:45) &amp;#8211; How AI is trained: Pre-training, Mid-training, and Post-training&lt;br /&gt;
+(1:51:51) &amp;#8211; Post-training explained: Exciting new research directions in LLMs&lt;br /&gt;
+(2:12:43) &amp;#8211; Advice for beginners on how to get into AI development &amp;#38; research&lt;br /&gt;
+(2:35:36) &amp;#8211; Work culture in AI (72+ hour weeks)&lt;br /&gt;
+(2:39:22) &amp;#8211; Silicon Valley bubble&lt;br /&gt;
+(2:43:19) &amp;#8211; Text diffusion models and other new research directions&lt;br /&gt;
+(2:49:01) &amp;#8211; Tool use&lt;br /&gt;
+(2:53:17) &amp;#8211; Continual learning&lt;br /&gt;
+(2:58:39) &amp;#8211; Long context&lt;br /&gt;
+(3:04:54) &amp;#8211; Robotics&lt;br /&gt;
+(3:14:04) &amp;#8211; Timeline to AGI&lt;br /&gt;
+(3:21:20) &amp;#8211; Will AI replace programmers?&lt;br /&gt;
+(3:39:51) &amp;#8211; Is the dream of AGI dying?&lt;br /&gt;
+(3:46:40) &amp;#8211; How AI will make money?&lt;br /&gt;
+(3:51:02) &amp;#8211; Big acquisitions in 2026&lt;br /&gt;
+(3:55:34) &amp;#8211; Future of OpenAI, Anthropic, Google DeepMind, xAI, Meta&lt;br /&gt;
+(4:08:08) &amp;#8211; Manhattan Project for AI&lt;br /&gt;
+(4:14:42) &amp;#8211; Future of NVIDIA, GPUs, and AI compute clusters&lt;br /&gt;
+(4:22:48) &amp;#8211; Future of human civilization&lt;/p&gt;</description>
+      <enclosure url="https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ai_sota_2026.mp3" type="audio/mpeg" length="5242880"/>
+      <guid>https://lexfridman.com/?p=6394</guid>
+      <pubDate>Sun, 01 Feb 2026 02:46:43 +0000</pubDate>
     </item>
     <item>
       <title>[13 Minutes Presents: The Space Shuttle] 13 Minutes to the Moon: Trailer, T-minus 3</title>
