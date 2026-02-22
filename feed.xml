@@ -5,22 +5,13 @@
     <description>Curated podcast episodes for people who love crafted storytelling, investigative journalism, and shows that respect your time. No algorithms. No ads. Just Kit's taste.</description>
     <link>https://github.com/kitattic/podcast-picks</link>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Feb 2026 16:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 16:00:19 GMT</lastBuildDate>
     <ns0:author>Kit (kitattic.com)</ns0:author>
     <ns0:summary>Curated podcast episodes for people who love crafted storytelling, investigative journalism, and shows that respect your time. No algorithms. No ads. Just Kit's taste.</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:image href="https://kitattic.github.io/podcast-picks/artwork.jpg"/>
     <ns0:category text="Society &amp;amp; Culture"/>
     <ns1:link href="https://kitattic.github.io/podcast-picks/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>[99% Invisible] The Em Dash</title>
-      <description>&lt;p&gt;The strange history of a punctuation mark that makes writing feel human, and why people now think it proves the opposite.&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and a whole week early.&amp;nbsp;&lt;br&gt;&lt;br&gt;Start a free trial now on Apple Podcasts or by visiting &lt;a href=&quot;http://siriusxm.com/podcastsplus.&quot; target=&quot;_blank&quot;&gt;siriusxm.com/podcastsplus&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;/p&gt;&lt;br/&gt; &lt;p&gt;Hosted by Simplecast, an AdsWizz company. See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for advertising.&lt;/p&gt;</description>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/89ef4b14-88be-4e23-8cfd-654008e9a224/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=89ef4b14-88be-4e23-8cfd-654008e9a224&amp;feed=BqbsxVfO" type="audio/mpeg" length="38131317"/>
-      <guid>cef0b883-9c04-4ff8-8c3a-e197d6dca301</guid>
-      <pubDate>Tue, 3 Feb 2026 18:15:00 +0000</pubDate>
-      <ns0:duration>00:39:22</ns0:duration>
-    </item>
     <item>
       <title>[Darknet Diaries] 169: MoD</title>
       <description>
@@ -38,6 +29,15 @@
       <guid>prx_7057_9d4c34be-a7df-41c7-a0da-5269b660e688</guid>
       <pubDate>Tue, 20 Jan 2026 08:00:00 -0000</pubDate>
       <ns0:duration>01:06:36</ns0:duration>
+    </item>
+    <item>
+      <title>[99% Invisible] Molar City</title>
+      <description>&lt;p&gt;How a small Mexican border town transformed itself into the dental tourism capital of the world, where dental care costs up to 80% less than what it might cost in the United States.&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and a whole week early.&amp;nbsp;&lt;br&gt;&lt;br&gt;Start a free trial now on Apple Podcasts or by visiting &lt;a href=&quot;http://siriusxm.com/podcastsplus.&quot; target=&quot;_blank&quot;&gt;siriusxm.com/podcastsplus&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;/p&gt;&lt;br/&gt; &lt;p&gt;Hosted by Simplecast, an AdsWizz company. See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for advertising.&lt;/p&gt;</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/6ceea67e-590f-4de6-9dbf-4c826a616cc8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=6ceea67e-590f-4de6-9dbf-4c826a616cc8&amp;feed=BqbsxVfO" type="audio/mpeg" length="40652408"/>
+      <guid>19b5fe7b-cbfa-4597-be53-cf6db49a0675</guid>
+      <pubDate>Tue, 17 Feb 2026 18:15:00 +0000</pubDate>
+      <ns0:duration>00:41:59</ns0:duration>
     </item>
     <item>
       <title>[99% Invisible] Artistic License Redux</title>
@@ -173,6 +173,16 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</descriptio
       <ns0:duration>2057</ns0:duration>
     </item>
     <item>
+      <title>[This American Life] 605: Kid Logic</title>
+      <description>&lt;p&gt;Kids using perfectly logical arguments and arriving at perfectly wrong conclusions.
+
+&lt;/p&gt;&lt;p&gt;Visit &lt;a href=&quot;https://thisamericanlife.supercast.com?utm_id=lifepartners&amp;utm_source=rss&amp;utm_medium=shownotes&quot;&gt;thisamericanlife.org/lifepartners&lt;/a&gt; to sign up for our premium subscription.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Prologue: Ira talks with Rebecca who, using perfectly valid evidence, arrived at the perfectly incorrect conclusion that her neighbor, Ronnie Loeberfeld, was the tooth fairy. Ira also talks with Dr. Alison Gopnik, co-author of the book, &quot;The Scientist in the Crib,&quot; about what exactly kid logic is. (6 minutes)&lt;/li&gt;&lt;li&gt;Act One: More stories like the one in the prologue, where kids look at something going on around them, observe it carefully, think about it logically, and come to conclusions that are completely incorrect. (11 minutes)&lt;/li&gt;&lt;li&gt;Act Two: Michael Chabon reads an excerpt from his short story &quot;Werewolves in Their Youth,&quot; from his collection of the same name, about an act of kid logic that succeeds where adult logic fails. (16 minutes)&lt;/li&gt;&lt;li&gt;Act Three: Howie Chackowicz tried a risky combination when he was little, kid logic with puppy love. He used to think that girls would fall in love with him if they could just see him sleeping or hear him read aloud. He revisits his biggest childhood crush and finds out that not only did his methods not work, but that no one even noticed them. (10 minutes)&lt;/li&gt;&lt;li&gt;Act Four: Alex Blumberg investigates a little-studied phenomenon: Children who get a mistaken idea in their heads about how something works or what something means, and then don't figure out until well into adulthood that they were wrong. Including the tale of a girl who received a tissue box for Christmas, allegedly painted by trained monkeys. (13 minutes)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Transcripts are available at &lt;a href=&quot;https://www.thisamericanlife.org/605/transcript&quot;&gt;thisamericanlife.org&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href='https://www.thisamericanlife.org/page/privacy-policy'&gt;This American Life privacy policy.&lt;/a&gt;&lt;br /&gt;&lt;a href='https://podcastchoices.com/adchoices'&gt;Learn more about sponsor message choices.&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3" type="audio/mpeg" length="0"/>
+      <guid>37068 at https://www.thisamericanlife.org</guid>
+      <pubDate>Sun, 15 Feb 2026 18:00:00 -0500</pubDate>
+      <ns0:duration>01:00:57</ns0:duration>
+    </item>
+    <item>
       <title>[This American Life] 75: Kindness of Strangers</title>
       <description>&lt;p&gt;An episode from our show's early days: Stories about what happens when strangers are kind — and when they're not.
 
@@ -181,16 +191,6 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</descriptio
       <guid>37598 at https://www.thisamericanlife.org</guid>
       <pubDate>Sun, 08 Feb 2026 18:00:00 -0500</pubDate>
       <ns0:duration>01:00:33</ns0:duration>
-    </item>
-    <item>
-      <title>[This American Life] 880: What Is Your Emergency?</title>
-      <description>&lt;p&gt;911 calls unlike any we’ve heard before, and other stories about immigration agents sweeping through America.
-
-&lt;/p&gt;&lt;p&gt;Visit &lt;a href=&quot;https://thisamericanlife.supercast.com?utm_id=lifepartners&amp;utm_source=rss&amp;utm_medium=shownotes&quot;&gt;thisamericanlife.org/lifepartners&lt;/a&gt; to sign up for our premium subscription.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Prologue: A collection of 911 calls where you can hear immigration enforcement moving through different cities and leaving chaos in their wake. (9 minutes)&lt;/li&gt;&lt;li&gt;Act One: More 911 calls, including people on the line with dispatchers as ICE is chasing them, trying to puzzle out their next moves. (22 minutes)&lt;/li&gt;&lt;li&gt;Act Two: Home Depots keep getting raided over and over again in Los Angeles. And day laborers are still showing up in store parking lots to find work every day.  So what’s that like? Months and months of that cat and mouse? Anayansi Diaz-Cortes went to find out. (11 minutes)&lt;/li&gt;&lt;li&gt;Act Three: Memo Torres tries to build an archive of every person taken by federal agents in Southern California. (11 minutes)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Transcripts are available at &lt;a href=&quot;https://www.thisamericanlife.org/880/transcript&quot;&gt;thisamericanlife.org&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href='https://www.thisamericanlife.org/page/privacy-policy'&gt;This American Life privacy policy.&lt;/a&gt;&lt;br /&gt;&lt;a href='https://podcastchoices.com/adchoices'&gt;Learn more about sponsor message choices.&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3" type="audio/mpeg" length="0"/>
-      <guid>46104 at https://www.thisamericanlife.org</guid>
-      <pubDate>Sun, 01 Feb 2026 18:00:00 -0500</pubDate>
-      <ns0:duration>00:59:16</ns0:duration>
     </item>
     <item>
       <title>[Lex Fridman Podcast] #490 – State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI</title>
@@ -255,7 +255,7 @@ Go to &lt;a href=&quot;https://lexfridman.com/s/perplexity-ep490-sc&quot;&gt;htt
       <pubDate>Sun, 01 Feb 2026 02:46:43 +0000</pubDate>
     </item>
     <item>
-      <title>[13 Minutes Presents: The Space Shuttle] 13 Minutes to the Moon: Trailer, T-minus 3</title>
+      <title>[13 Minutes Presents: Artemis II] 13 Minutes to the Moon: Trailer, T-minus 3</title>
       <description>&lt;p&gt;Introducing 13 Minutes to the Moon, with Apollo 7 astronaut Walt Cunningham and former Apollo engineer Poppy Northcutt - the first woman to work as an engineer in an operational support role in NASA's Mission Control.&lt;/p&gt;</description>
       <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p076c6qk.mp3" type="audio/mpeg" length="2640000"/>
       <guid>urn:bbc:podcast:p076c722</guid>
@@ -263,13 +263,24 @@ Go to &lt;a href=&quot;https://lexfridman.com/s/perplexity-ep490-sc&quot;&gt;htt
       <ns0:duration>165</ns0:duration>
     </item>
     <item>
-      <title>[Radiolab] Kleptotherms</title>
-      <description>&lt;p&gt;In this episode, we break the thermometer and watch the mercury spill out as we discover that temperature is far stranger than it seems. We first ran this episode in 2021: Five stories that run the gamut from snakes to stars. We start out underwater, with a species of snake that has evolved a devious trick for keeping warm. Then we hear the tale of a young man whose seemingly simple method of warming up might be the very thing making him cold. And Senior Correspondent Molly Webster blows the lid off the idea that 98.6 degrees Fahrenheit is a sound marker of health. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;EPISODE CREDITS:&lt;/strong&gt;&lt;br /&gt;Reported by - Lulu Miller and Molly Webster&lt;br /&gt;Produced by - Becca Bressler, Lulu Miller and Molly Webster&lt;br /&gt;with help from - Carin Leong&lt;br /&gt;Fact-checking by - Emily Krieger&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Sign up for our newsletter!! It includes short essays, recommendations, and details about other ways to interact with the show. &lt;/i&gt;&lt;a href=&quot;https://radiolab.org/newsletter&quot;&gt;&lt;i&gt;Signup&lt;/i&gt;&lt;/a&gt;&lt;i&gt; (https://radiolab.org/newsletter)!&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Radiolab is supported by listeners like you. Support Radiolab by becoming a member of &lt;/i&gt;&lt;a href=&quot;http://members.radiolab.org&quot;&gt;&lt;i&gt;The Lab&lt;/i&gt;&lt;/a&gt;&lt;i&gt; (https://members.radiolab.org/) today.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Follow our show on &lt;/i&gt;&lt;a href=&quot;http://instagram.com/radiolab&quot;&gt;&lt;i&gt;Instagram&lt;/i&gt;&lt;/a&gt;&lt;i&gt;, &lt;/i&gt;&lt;a href=&quot;http://twitter.com/radiolab&quot;&gt;&lt;i&gt;Twitter&lt;/i&gt;&lt;/a&gt;&lt;i&gt; and &lt;/i&gt;&lt;a href=&quot;http://facebook.com/radiolab&quot;&gt;&lt;i&gt;Facebook&lt;/i&gt;&lt;/a&gt;&lt;i&gt; @radiolab, and share your thoughts with us by emailing &lt;/i&gt;&lt;a href=&quot;mailto:radiolab@wnyc.org&quot;&gt;&lt;i&gt;radiolab@wnyc.org&lt;/i&gt;&lt;/a&gt;&lt;i&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Leadership support for Radiolab’s science programming is provided by the Simons Foundation and the John Templeton Foundation. Foundational support for Radiolab was provided by the Alfred P. Sloan Foundation.&lt;/i&gt;&lt;/p&gt;
+      <title>[Radiolab] Gray's Donation</title>
+      <description>&lt;p&gt;Before he was even born, Sarah and Ross Gray knew that their son Thomas wouldn’t live long. But as they let go of him, they made a decision that reverberated through a world that they never bothered to think about. Years later, after a couple of awkward phone calls, they go on a quest and manage to meet the people and places for whom Thomas’ short life was an altogether different kind of gift. We originally made this story back in 2015, but we wanted to play it again because we love that it brings a view of science that is redemptive, tender, and unexpected.&lt;/p&gt;
+&lt;p&gt;Since we first released this episode, Sarah Gray wrote a book called &lt;a href=&quot;https://www.harpercollins.com/products/a-life-everlasting-sarah-gray?variant=32208104914978&quot; rel=&quot;noopener noreferrer&quot;&gt;A Life Everlasting&lt;/a&gt; (https://zpr.io/GVYisRaqe9d6), it’s a memoir about Thomas that dives into the world of organ donation and medical science. She’s also written a beautiful short story about shame called &lt;a href=&quot;https://medium.com/@graysarah/the-lacemaker-story-68e0a25da842&quot; rel=&quot;noopener noreferrer&quot;&gt;The Lacemaker Fairy Tale&lt;/a&gt; (https://zpr.io/Li5BMtfHmf92). And, right now she’s working on a script for a movie called Raincheck.&lt;br&gt;&lt;br&gt;&lt;strong&gt;EPISODE CREDITS:&lt;/strong&gt;&lt;br&gt;
+ Reported by - Jad Abumrad&lt;br&gt;
+ with help from - Latif Nasser&lt;br&gt;&lt;br&gt;&lt;strong&gt;LATERAL CUTS -&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://radiolab.org/podcast/cathedral&quot; rel=&quot;noopener noreferrer&quot;&gt;The Cathedral&lt;/a&gt; (https://radiolab.org/podcast/cathedral)&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://radiolab.org/podcast/the-immortal-life-of-henrietta-lacks&quot; rel=&quot;noopener noreferrer&quot;&gt;The Immortal Life of Henrietta Lacks&lt;/a&gt; (&lt;a href=&quot;https://radiolab.org/podcast/the-immortal-life-of-henrietta-lacks&quot; rel=&quot;noopener noreferrer&quot;&gt;https://radiolab.org/podcast/the-immortal-life-of-henrietta-lacks&lt;/a&gt;) &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Signup for our newsletter!! It includes short essays, recommendations, and details about other ways to interact with the show. &lt;/i&gt;&lt;a href=&quot;https://radiolab.org/newsletter&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;i&gt;Sign up&lt;/i&gt;&lt;/a&gt;&lt;i&gt; (https://radiolab.org/newsletter)!&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Radiolab is supported by listeners like you. Support Radiolab by becoming a member of &lt;/i&gt;&lt;a href=&quot;http://members.radiolab.org&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;i&gt;The Lab&lt;/i&gt;&lt;/a&gt;&lt;i&gt; (https://members.radiolab.org/) today.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Follow our show on &lt;/i&gt;&lt;a href=&quot;http://instagram.com/radiolab&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;i&gt;Instagram&lt;/i&gt;&lt;/a&gt;&lt;i&gt;, &lt;/i&gt;&lt;a href=&quot;http://twitter.com/radiolab&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;i&gt;Twitter&lt;/i&gt;&lt;/a&gt;&lt;i&gt; and &lt;/i&gt;&lt;a href=&quot;http://facebook.com/radiolab&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;i&gt;Facebook&lt;/i&gt;&lt;/a&gt;&lt;i&gt; @radiolab, and share your thoughts with us by emailing &lt;/i&gt;&lt;a href=&quot;mailto:radiolab@wnyc.org&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;i&gt;radiolab@wnyc.org&lt;/i&gt;&lt;/a&gt;&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Leadership support for Radiolab’s science programming is provided by the Simons Foundation and the John Templeton Foundation. Foundational support for Radiolab was provided by the Alfred P. Sloan Foundation.&lt;/i&gt;&lt;/p&gt;
 </description>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/118b70d5-bfe2-4aa4-b948-1e31a681a434/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&amp;awEpisodeId=118b70d5-bfe2-4aa4-b948-1e31a681a434&amp;feed=EmVW7VGp" type="audio/mpeg" length="42961348"/>
-      <guid>b2203605-866f-4704-8055-9c835e9c487b</guid>
-      <pubDate>Fri, 6 Feb 2026 15:00:00 +0000</pubDate>
-      <ns0:duration>00:44:45</ns0:duration>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/f9d86f2e-c86d-4b2b-92de-c6973efec724/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&amp;awEpisodeId=f9d86f2e-c86d-4b2b-92de-c6973efec724&amp;feed=EmVW7VGp" type="audio/mpeg" length="26250532"/>
+      <guid>7d1c8106-e86f-4c91-9a6a-bd32b19fdfe6</guid>
+      <pubDate>Fri, 20 Feb 2026 15:00:00 +0000</pubDate>
+      <ns0:duration>00:27:20</ns0:duration>
     </item>
     <item>
       <title>[Radiolab] Time is Honey</title>
@@ -281,7 +292,7 @@ Go to &lt;a href=&quot;https://lexfridman.com/s/perplexity-ep490-sc&quot;&gt;htt
       <ns0:duration>00:38:31</ns0:duration>
     </item>
     <item>
-      <title>[13 Minutes Presents: The Space Shuttle] 13 Minutes to the Moon: Trailer, T-minus 4 </title>
+      <title>[13 Minutes Presents: Artemis II] 13 Minutes to the Moon: Trailer, T-minus 4 </title>
       <description>&lt;p&gt;The countdown begins. The story of Apollo 11 – coming soon.&lt;/p&gt;</description>
       <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p076bhc6.mp3" type="audio/mpeg" length="352000"/>
       <guid>urn:bbc:podcast:p076bhsv</guid>
